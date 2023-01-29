@@ -1,1 +1,2 @@
 1- change coms to panda sql
+2- external file host LFR
